@@ -1,0 +1,13 @@
+
+Full:  True
+
+Elements dequeued from the queue
+a
+b
+c
+
+Empty:  False
+
+Queue size: 1
+
+

@@ -1,0 +1,12 @@
+Initial queue:
+deque(['a', 'b', 'c', 'd'])
+
+Elements dequeued from the queue:
+a
+b
+c
+
+Final queue
+deque(['d'])
+
+
